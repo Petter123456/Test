@@ -32,9 +32,9 @@
   5. Skriv en rekursiv funktion som hämtar ut de 3 största talen från listan.
   6. Skriv en funktion som mappar alla värden i listan till en samling med key value pairs
      * Exempel på output: 
-       ** Kund 1: Första värdet från listan
-       ** Kund 2: Andra värdet från listan
-       ** Kund 3: Tredje värdet från listan
+       * Kund 1: Första värdet från listan
+       * Kund 2: Andra värdet från listan
+       * Kund 3: Tredje värdet från listan
   6. Samtliga funktioner skall enhetstestas
   
   #### Utvärdering 
