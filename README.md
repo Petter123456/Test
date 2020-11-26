@@ -21,6 +21,8 @@
   ### User Story
   Ett företag har en lista med massa beställningar per användarepå deras e-com lösning. De behöver nu få ut lite statistik på den här listan (En console applikation går helt fint). 
   
+  Detta är listan: 1,84,234,1000,23,45,66,800,600,100,3,6,7
+  
   ### Acceptanskrav 
   
   1. Det skall vara en console applikation. 
