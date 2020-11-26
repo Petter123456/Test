@@ -15,7 +15,7 @@
   4. Plus poäng om enhetstester är med! 
   
   #### Utvärdering 
-  Din kod kommer utvärderas utifrån acceptanskriterierna samt effektivitet och läsbarhet. 
+Din kod kommer utvärderas utifrån acceptanskriterierna samt struktur, effektivitet och läsbarhet.
   
 ## Backend Test
   ### User Story
