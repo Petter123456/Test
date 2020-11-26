@@ -40,7 +40,7 @@
   6. Samtliga funktioner skall enhetstestas
   
   #### Utvärdering 
-  Din kod kommer utvärderas utifrån acceptanskriterierna samt effektivitet och läsbarhet. 
+  Din kod kommer utvärderas utifrån acceptanskriterierna samt struktur, effektivitet och läsbarhet. 
   
 # Inlämning 
 1. Ladda upp din lösning på ett publikt Github repo.
