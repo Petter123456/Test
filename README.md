@@ -1,11 +1,11 @@
 # Test
 
 
-##Frontend Test 
+## Frontend Test 
 
-##Backend Test
+## Backend Test
 
-#Inlämning 
+# Inlämning 
 
 1. Ladda upp din lösning på ett publikt Github repo.
 2. I README.md skriv ditt namn och vilket företag du gör testet för. 
